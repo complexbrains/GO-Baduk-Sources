@@ -14,6 +14,8 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 * [To Review](#to-review)
 
+* [Associations](#associations)
+
 
 
 ### To Watch
@@ -31,6 +33,8 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 ###  To Read
 [Sensei's Library](https://senseis.xmp.net/)
 [Learn Go](https://www.learngo.co.uk/index.html)
+[Go Books](https://gobooks.com/)
+[English Go Books](https://www.slateandshell.com/)
 
 
 
@@ -38,10 +42,29 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 [OGS](https://online-go.com/)
 [KGS](http://www.gokgs.com/)
+[Teygem](http://www.tygemgo.com/)
+
+
 
 **Interactive Tutorials**
-[Learn Go Interactive Tutorials](https://www.learngo.co.uk/GoTutor/Tutor.php0
-
+[Learn Go Interactive Tutorials](https://www.learngo.co.uk/GoTutor/Tutor.php)
+[Interactive Way to Go](http://playgo.to/iwtg/en/)
 
 
 ### To Review
+
+
+**Check Your Game in**
+[Alpha Go](https://deepmind.com/research/alphago/)
+
+[Kombilo: Go Data Base Program](https://www.u-go.net/kombilo/)
+
+[Drago: Game edit and database tool](http://www.godrago.net/)
+
+
+### Associations
+[British Go Association](http://www.britgo.org/)
+
+[American Go Association](https://www.usgo.org/)
+
+
