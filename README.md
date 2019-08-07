@@ -26,16 +26,22 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 **Video Tutorials**
 [Mikko's Online Game Tutorials](https://www.twitch.tv/mikkgo/videos)
+
 [Nick Sibbly's Go Tutorials](https://www.youtube.com/channel/UC_msctwlIh2cwM8yAtaju1A)
 
 
 
 ###  To Read
 [Sensei's Library](https://senseis.xmp.net/)
+
 [Learn Go](https://www.learngo.co.uk/index.html)
+
 [Go Books](https://gobooks.com/)
+
 [English Go Books](https://www.slateandshell.com/)
+
 [Falling Stones](https://fallingstones.wordpress.com/) A nice blog about Go
+
 [Go Base](http://gobase.org/)
 
 
@@ -44,14 +50,18 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 ### To Play in
 
 [OGS](https://online-go.com/)
+
 [KGS](http://www.gokgs.com/)
+
 [Teygem](http://www.tygemgo.com/)
+
 [CrazyStones](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.gocsdllite&hl=en)
 
 
 
 ### Interactive Tutorials
 [Learn Go Interactive Tutorials](https://www.learngo.co.uk/GoTutor/Tutor.php)
+
 [Interactive Way to Go](http://playgo.to/iwtg/en/)
 
 
