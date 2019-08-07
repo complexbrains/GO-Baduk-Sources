@@ -1,6 +1,6 @@
 # GO-Baduk-Sources
 
-My love of Go started with my Mathematics grad degree but had to give a break for some sad reasons for several years. Now I am back to this amazing game again thanks to an **_angel_** came into my dreams once! Here I share some sources to start with and famous games that I collect for myself which I think might be helpful to many others too! If you are already a Go player find me at OGS or KGS. Don't forget I am still training so be gentile please! :innocent: 
+My love of Go started when I was a Mathematics grad student but had to give a break for some sad reasons for several years. Now I am back to this amazing game again thanks to an **_angel_** came into my dreams once! Here I share some sources to start with and famous games that I collect for myself which I think might be helpful to many others too! If you are already a Go player find me at OGS or KGS. Don't forget I am still training so be gentile please! :innocent: 
 
 You can also find .sgf files from some famous games and of course all of the games from Hikaru in the repo! Enjoy!
 
