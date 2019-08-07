@@ -24,12 +24,22 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 [Alpha GO](https://www.netflix.com/search?q=alpha%20go&jbv=80190844&jbp=0&jbr=0) A documentary about DeepMind's Alpha Go challenging the human mind!
 
-**Video Tutorials**
+### Video Tutorials
 [Mikko's Online Game Tutorials](https://www.twitch.tv/mikkgo/videos)
 
 [Nick Sibbly's Go Tutorials](https://www.youtube.com/channel/UC_msctwlIh2cwM8yAtaju1A)
 
+[Nyig Go Tutorials](https://www.youtube.com/channel/UCMp-4uv1jfVa0dXkZv3qQYA)
 
+[InSente Tutorials and Reviews](https://www.youtube.com/channel/UCP14BOcc0Rg9-TXXv2I4AkA)
+
+[Sunday Go Lessons](https://www.youtube.com/channel/UC1_FV_v1Ceq0DMk1kyWkwbw)
+
+[Andrew Jackson Go Tutorials](https://www.youtube.com/channel/UCGAASXnrt4FtYfFZ608PqHA)
+
+[American Go Association Tutorials](https://www.youtube.com/user/USGOWeb/featured)
+
+[Go Talk](https://www.youtube.com/channel/UCq9Fa2sPq2oI5jkECRZNoBw)
 
 ###  To Read
 [Sensei's Library](https://senseis.xmp.net/)
