@@ -22,10 +22,11 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 [The Surrounding Game](https://www.netflix.com/title/81006598)
 
-[Alpha GO](https://www.netflix.com/search?q=alpha%20go&jbv=80190844&jbp=0&jbr=0)
+[Alpha GO](https://www.netflix.com/search?q=alpha%20go&jbv=80190844&jbp=0&jbr=0) A documentary about DeepMind's Alpha Go challenging the human mind!
 
-**Viddeo Tutorials**
-
+**Video Tutorials**
+[Mikko's Online Game Tutorials](https://www.twitch.tv/mikkgo/videos)
+[Nick Sibbly's Go Tutorials](https://www.youtube.com/channel/UC_msctwlIh2cwM8yAtaju1A)
 
 
 
@@ -34,6 +35,9 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 [Learn Go](https://www.learngo.co.uk/index.html)
 [Go Books](https://gobooks.com/)
 [English Go Books](https://www.slateandshell.com/)
+[Falling Stones](https://fallingstones.wordpress.com/) A nice blog about Go
+[Go Base](http://gobase.org/)
+
 
 
 
@@ -42,6 +46,7 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 [OGS](https://online-go.com/)
 [KGS](http://www.gokgs.com/)
 [Teygem](http://www.tygemgo.com/)
+[CrazyStones](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.gocsdllite&hl=en)
 
 
 
@@ -61,6 +66,11 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 [Drago: Game edit and database tool](http://www.godrago.net/)
 
+[Alpha Go Teach](https://alphagoteach.deepmind.com/)
+
+[Go Kibitz](https://gokibitz.com/)
+
+[Leela-Zero](https://github.com/featurecat/lizzie)
 
 ### Associations
 [British Go Association](http://www.britgo.org/)
