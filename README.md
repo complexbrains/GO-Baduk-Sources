@@ -9,7 +9,6 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 * [To Read](#to-read)
 
-
 * [To Play in](#to-play-in)
 
 * [To Review](#to-review)
@@ -46,7 +45,7 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 
 
-**Interactive Tutorials**
+### Interactive Tutorials
 [Learn Go Interactive Tutorials](https://www.learngo.co.uk/GoTutor/Tutor.php)
 [Interactive Way to Go](http://playgo.to/iwtg/en/)
 
@@ -54,7 +53,8 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 ### To Review
 
 
-**Check Your Game in**
+### Check Your Game in
+
 [Alpha Go](https://deepmind.com/research/alphago/)
 
 [Kombilo: Go Data Base Program](https://www.u-go.net/kombilo/)
