@@ -97,4 +97,8 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 [American Go Association](https://www.usgo.org/)
 
+[European Go Federation](https://www.eurogofed.org/)
+
+[Asian Go Federation](http://www.agf.or.kr/)
+
 
