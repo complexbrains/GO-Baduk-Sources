@@ -23,18 +23,24 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 [Alpha GO](https://www.netflix.com/search?q=alpha%20go&jbv=80190844&jbp=0&jbr=0)
 
-**Online Tutorials**
+**Viddeo Tutorials**
 
 
 
 
 ###  To Read
-
+[Sensei's Library](https://senseis.xmp.net/)
+[Learn Go](https://www.learngo.co.uk/index.html)
 
 
 
 ### To Play in
 
+[OGS](https://online-go.com/)
+[KGS](http://www.gokgs.com/)
+
+**Interactive Tutorials**
+[Learn Go Interactive Tutorials](https://www.learngo.co.uk/GoTutor/Tutor.php0
 
 
 
