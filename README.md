@@ -9,6 +9,7 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 * [To Read](#to-read)
 
+
 * [To Play in](#to-play-in)
 
 * [To Review](#to-review)
@@ -16,7 +17,13 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 
 ### To Watch
+[Hikaru No Go](https://www.youtube.com/watch?v=k6e03IDZ9a0) Please start with this! Be ready for stream of emotions! You will not want it to finish, I promise!
 
+[The Surrounding Game](https://www.netflix.com/title/81006598)
+
+[Alpha GO](https://www.netflix.com/search?q=alpha%20go&jbv=80190844&jbp=0&jbr=0)
+
+**Online Tutorials**
 
 
 
