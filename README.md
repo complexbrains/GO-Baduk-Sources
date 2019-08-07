@@ -18,7 +18,7 @@ My love of Go started with my Mathematics grad degree but had to give a break fo
 
 
 ### To Watch
-[Hikaru No Go](https://www.youtube.com/watch?v=k6e03IDZ9a0) Please start with this! Be ready for stream of emotions! You will not want it to finish, I promise!
+[Hikaru No Go](https://www.youtube.com/watch?v=k6e03IDZ9a0) Please start with this! Be ready for stream of emotions! You will not want it to finish, I promise! :two_hearts: :two_hearts: :two_hearts: 
 
 [The Surrounding Game](https://www.netflix.com/title/81006598)
 
