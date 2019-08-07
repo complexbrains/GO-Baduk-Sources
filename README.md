@@ -20,7 +20,7 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 
 ### To Watch
-[Hikaru No Go](https://www.youtube.com/watch?v=k6e03IDZ9a0) :two_hearts: Please start with this! Be ready for stream of emotions! You will not want it to finish, I promise!
+[Hikaru No Go](https://www.youtube.com/watch?v=k6e03IDZ9a0) :two_hearts: Please start with this! Be ready for the stream of emotions! You will not want it to finish, I promise!
 
 [The Surrounding Game](https://www.netflix.com/title/81006598)
 
