@@ -26,6 +26,9 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 [Alpha GO](https://www.netflix.com/search?q=alpha%20go&jbv=80190844&jbp=0&jbr=0) A documentary about DeepMind's Alpha Go challenging the human mind!
 
+
+
+
 ### Video Tutorials
 [Mikko's Online Game Tutorials](https://www.twitch.tv/mikkgo/videos)
 
@@ -49,6 +52,8 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 [Sunday Go Lessons - Videos on the Game of Go!](https://www.youtube.com/channel/UC1_FV_v1Ceq0DMk1kyWkwbw)
 
+[Open Study Room](https://www.youtube.com/channel/UCebC2xkVmJZCnN-sjmhbuow)
+
 
 
 
@@ -67,6 +72,15 @@ You can also find .sgf files from some famous games and of course all of the gam
 [Go Base](http://gobase.org/)
 
 [One Liberty Short](https://onelibertyshort.wordpress.com/)
+
+[Go of Ten](http://gooften.net/)
+
+[Weiqi to go!](http://weiqitogo.blogspot.com/)
+
+[Go for Go](http://www.go4go.net/go/)
+
+[Go Game Guru](https://gogameguru.com/)
+
 
 
 
@@ -90,8 +104,24 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 [Interactive Tutorials](https://online-go.com/learn-to-play-go)
 
+[Eidogo](http://eidogo.com/#search)
 
-### To Review
+[Josekipedia](http://www.josekipedia.com/)
+
+[Walteri Pattern Search](http://ps.waltheri.net/)
+
+
+### To Solve
+
+[Go Problems](http://www.goproblems.com/)
+
+[Tsumego](https://tsumego.tasuki.org/)
+
+[Weiqiok](http://www.weiqiok.com/asp/English.asp)
+
+[321Go](http://321go.org/home/?ln=uk)
+
+[Sahwal](https://sahwal.com/contest/list/1)
 
 
 ### Check Your Game in
@@ -107,6 +137,10 @@ You can also find .sgf files from some famous games and of course all of the gam
 [Go Kibitz](https://gokibitz.com/)
 
 [Leela-Zero](https://github.com/featurecat/lizzie)
+
+[Go Statistics](https://avavt.github.io/gotstats/#/)
+
+
 
 ### Associations
 [British Go Association](http://www.britgo.org/)
