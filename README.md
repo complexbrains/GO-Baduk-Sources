@@ -43,6 +43,12 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 [Go Talk](https://www.youtube.com/channel/UCq9Fa2sPq2oI5jkECRZNoBw)
 
+[Shawn Ryan](https://www.youtube.com/channel/UCBxqdZfHo8MHyZ1iuRtAoXw)
+
+
+
+
+
 ###  To Read
 [Sensei's Library](https://senseis.xmp.net/)
 
