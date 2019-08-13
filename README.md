@@ -45,6 +45,10 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 [Shawn Ryan](https://www.youtube.com/channel/UCBxqdZfHo8MHyZ1iuRtAoXw)
 
+[Goshawk Heron](https://www.youtube.com/channel/UCV86Jv5aKraAKjwriTU1L5Q)
+
+[Sunday Go Lessons - Videos on the Game of Go!](https://www.youtube.com/channel/UC1_FV_v1Ceq0DMk1kyWkwbw)
+
 
 
 
@@ -61,6 +65,8 @@ You can also find .sgf files from some famous games and of course all of the gam
 [Falling Stones](https://fallingstones.wordpress.com/) A nice blog about Go
 
 [Go Base](http://gobase.org/)
+
+[One Liberty Short](https://onelibertyshort.wordpress.com/)
 
 
 
@@ -81,6 +87,8 @@ You can also find .sgf files from some famous games and of course all of the gam
 [Learn Go Interactive Tutorials](https://www.learngo.co.uk/GoTutor/Tutor.php)
 
 [Interactive Way to Go](http://playgo.to/iwtg/en/)
+
+[Interactive Tutorials](https://online-go.com/learn-to-play-go)
 
 
 ### To Review
