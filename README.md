@@ -81,7 +81,13 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 [Go Game Guru](https://gogameguru.com/)
 
+[Go Teaching Leader](https://gtl.xmp.net/)
 
+[The Game of Go](http://www.mechner.com/david/go/)
+
+[Drago](http://www.godrago.net/)
+
+[go for All](http://www.goforall.ca/)
 
 
 
@@ -110,6 +116,8 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 [Walteri Pattern Search](http://ps.waltheri.net/)
 
+[Josekipedia](http://www.josekipedia.com/)
+
 
 ### To Solve
 
@@ -135,6 +143,10 @@ You can also find .sgf files from some famous games and of course all of the gam
 [Guess the Move](https://play.google.com/store/apps/details?id=thego.gtm.guessthemove&hl=en_GB)
 
 [Discord](https://play.google.com/store/apps/details?id=com.discord&hl=en_GB) Chatting app with rooms dedicated to the players of GO.
+
+[MultiGo](http://www.ruijiang.com/multigo/download.php)
+
+[U-go](https://www.u-go.net/)
 
 
 ### Check Your Game in
@@ -163,6 +175,16 @@ You can also find .sgf files from some famous games and of course all of the gam
 [European Go Federation](https://www.eurogofed.org/)
 
 [Asian Go Federation](http://www.agf.or.kr/)
+
+[Nordic Go Academy](http://www.nordicgoacademy.com/reviewing-services/)
+
+[Canadian Go Association](http://info.go-canada.org/)
+
+[Korean Go Association](http://english.baduk.or.kr/)
+
+[American Go Foundation](http://agfgo.org/pages/home.php)
+
+[go Clubs Online](http://www.goclubs.org/home.html)
 
 
 
