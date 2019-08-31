@@ -54,6 +54,21 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 [Open Study Room](https://www.youtube.com/channel/UCebC2xkVmJZCnN-sjmhbuow)
 
+[Go Commentarty](https://www.youtube.com/user/gocommentary/videos)
+
+[Dsaun Shape Lecture](https://www.youtube.com/watch?v=JKBh8FGK9bU)
+
+[Dwyrin](https://www.youtube.com/user/dwyrin)
+
+[Dudha2](https://www.youtube.com/user/theduddha2)
+
+[Jonathan Markowitz](https://www.youtube.com/user/KNMeepsie)
+
+[Weiqi Master](https://www.youtube.com/channel/UCy15o_1dvwP5I_cbV13p4Cg)
+
+[Yunseng Dojan](https://vimeo.com/yungusengdojang)
+
+[Tyler Oyakawa](https://www.youtube.com/channel/UC82wG15LsKEer_u_kpw6IJA/videos)
 
 
 
@@ -88,6 +103,24 @@ You can also find .sgf files from some famous games and of course all of the gam
 [Drago](http://www.godrago.net/)
 
 [go for All](http://www.goforall.ca/)
+
+[Milt's Go Page](http://users.eniinternet.com/bradleym/)
+
+[All About Go](http://www.allaboutgo.com/index.html)
+
+[KoGo's Joseki Library](http://waterfire.us/joseki.htm)
+
+[Yungusend Dojang](https://eyd.yunguseng.com/)
+
+[KazSensei](http://kazsensei.com/)
+
+[Internet Go School](https://internetgoschool.com/index.vhtml)
+
+[In Goe Internet Class](https://www.gokgs.com/help/sandbox/IGIC.html)
+
+[Dwyrin](http://www.dwyrin.tv/dwyrin-who/)
+
+[Go Lessons](http://www.golessons.com/)
 
 
 
@@ -148,6 +181,18 @@ You can also find .sgf files from some famous games and of course all of the gam
 
 [U-go](https://www.u-go.net/)
 
+[Go Write](http://gowrite.net/)
+
+[qGo](http://qgo.sourceforge.net/)
+
+[Jgo Client](http://www.rene-grothmann.de/jago/)
+
+[Sabaki](https://sabaki.yichuanshen.de/)
+
+[Panda Net](http://www.pandanet.co.jp/English/glgo/)
+
+
+
 
 ### Check Your Game in
 
@@ -185,6 +230,10 @@ You can also find .sgf files from some famous games and of course all of the gam
 [American Go Foundation](http://agfgo.org/pages/home.php)
 
 [go Clubs Online](http://www.goclubs.org/home.html)
+
+[Swiss Go Association](http://www.swissgo.org/)
+
+[American Collegiate Go Association](http://www.college-go.org/)
 
 
 
